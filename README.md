@@ -11,7 +11,7 @@ program over the Spring of 2019.
 
 It contains references, slides, code, and starter files for
 data challenges. You can find the most updated version of the course
-syllabus [here](https://github.com/marco-morales/QMSS-GR5069_Spring2019/syllabus/GR5069_Spring2019.pdf)
+syllabus [here](/syllabus/GR5069_Spring2019.pdf)
 as well. Make sure to check it regularly.
 
 
