@@ -32,15 +32,15 @@ identified over the years on what a social scientist
 should know at minimum when entering data science, and what a data
 scientist should know to hit the ground running and add immediate
 value to their teams. To do that, this course aims to:
-* sharpen you technical skills not only in **applying models**, but
+* sharpen you technical skills not only in **fitting models**, but
   particularly in **building knowledge and generating insights** from the
   data. While this may seem obvious for a Data Scientist, it is not
   always the focus of training,
 * train in **working effectively in teams** to build projects and
   products. Data Science is collaborative in nature and constantly
-  evolving in its **best practices** that enhance efficient
-  collaboration. This is particularly useful when dealing with
-  **large and complicated projects**,
+  evolving in **best practices** that enhance efficient
+  collaboration. Collaboration for school projects/assignments is vastly different from the **highly-structured collaboration** that happens in DS teams,
+  but is not always the focus of training,,
 * learn processes and practices at the **intersection of Data
   Science and Data Engineering** that are central to the **data product
   cycle**. Data Scientists typically start being exposed to Data Engineering on the job. There's much to be gained from early exposure to concepts and practices in this field; and
@@ -50,10 +50,10 @@ value to their teams. To do that, this course aims to:
   of a data scientist is to obtain expert knowledge from and
   communicate with non-technical audiences. The greatest
   insight/project/product is moot if no one outside the Data Science
-  team understands its value.
+  team understands it or its value.
 
   All of these are highly valued skills in the data science job market,
-  but not always considered explicily as part of an integral Data
+  but not always considered explicitly as part of an integral Data
   Science curriculum.
 
 ## Prerequisites:
@@ -82,7 +82,7 @@ careers:
 By the second session, make sure to have the latest versions of
 [__R__](https://www.r-project.org/), [__RStudio__](https://www.rstudio.com/), and
 [__Git__](https://git-scm.com/) on your computer. Also, make sure to have registered
-for a [__GitHub__](https://github.com) account. [__Atom__](https://atom.io/) is also recommended, as it may simplify your interaction with Git and GitHub.
+for a [__GitHub__](https://github.com) account. [__Atom__](https://atom.io/) is also recommended to simplify your interaction with Git and GitHub.
 
 
 ### Accessing course materials
