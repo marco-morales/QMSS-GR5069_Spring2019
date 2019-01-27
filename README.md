@@ -11,7 +11,7 @@ program over the Spring of 2019.
 
 It contains references, slides, code, and starter files for
 data science challenges. You can find the most updated version of the course
-syllabus [here](/syllabus/GR5069_Spring2019.pdf), and some useful resources on the [wiki](/wiki/). Make sure to check them regularly.
+syllabus [here](/syllabus/GR5069_Spring2019.pdf), and some useful resources on the [wiki](/wiki/Resources). Make sure to check them regularly.
 
 
 ## Overview
