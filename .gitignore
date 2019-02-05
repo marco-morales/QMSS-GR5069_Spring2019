@@ -10,3 +10,6 @@
 
 # RStudio files
 *.Rproj.user/
+
+# here() markers
+*.here
