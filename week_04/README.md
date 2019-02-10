@@ -21,11 +21,12 @@ Git and GitHub have done a great job of putting together and facilitating resour
 
 * the GitHub YouTube channel [GitHub training series](https://www.youtube.com/GitHub)
 * [GitHub Learning Lab](https://lab.github.com) hands-on tutorials put together by GitHub
+* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/) is a 5-minute tutorial to understand the basics of team collaboration through GitHub 
 * [GitHub Help](https://help.github.com/) is a great place to start at the source
 
 ## Atom
 
-Although it's probably best to start with the command line, once you're comfortable coding in a text editor, it might start to make sense to also interact with git and GitHub from your text editor as well. Atom is an open source text editor - supported by GitHub - with a nice integration with git and GitHub.
+Although it's probably best to start with the command line, once you're comfortable coding in a text editor, it might start to make sense to also interact with git and GitHub from your text editor as well. Atom is an open source text editor - supported by GitHub - with a nice integration with git and GitHub (aka an IDE).
 
 * the [Version Control in Atom](https://flight-manual.atom.io/using-atom/sections/version-control-in-atom/) and [GitHub package](http://flight-manual.atom.io/using-atom/sections/github-package/) chapters from the [Atom Flight Manual](https://flight-manual.atom.io) to understand the basics of working with git and GitHub from Atom
 * [Atom Flight Manual](https://flight-manual.atom.io) if you want to learn more about other packages that will make it easier to code in your language of choice
