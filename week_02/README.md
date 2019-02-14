@@ -6,8 +6,10 @@ Data Science remains a very nebulous concept with a very fluid definition, perha
 * this
 [piece](http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf) by David Donoho discussing data science (and statistics). An incredibly relevant piece for Social Scientists to read as they head into the world of
 Data Science.
-* take also a few minutes to read Drew Conway's [original post](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram) on the Data Science Venn Diagram ...and since this is week 2, keep going on this [compilation](https://www.kdnuggets.com/2016/10/battle-data-science-venn-diagrams.html) of iterations on the same idea.
-* a nice [article](https://hbr.org/2018/08/what-data-scientists-really-do-according-to-35-data-scientists) by Hugo Bowne-Anderson on what Data Scientists really do, based conversations he has had with Data Scientists on his [DataFramed podcast](https://soundcloud.com/dataframed)
+* take also a few minutes to read Drew Conway's [original post](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram) on the Data Science Venn Diagram ...and since this is week 2, keep going on this [compilation](https://www.kdnuggets.com/2016/10/battle-data-science-venn-diagrams.html) of iterations on the same idea
+* an old classic post [A taxonomy of Data Science](http://www.dataists.com/2010/09/a-taxonomy-of-data-science/) (2010) from people coming from the hard sciences
+* a nice [article](https://hbr.org/2018/08/what-data-scientists-really-do-according-to-35-data-scientists) by Hugo Bowne-Anderson on what Data Scientists really do
+* a conversation with Hillary Mason on the [Past, Present and Future of Data Science](https://soundcloud.com/dataframed/1-data-science-past-present-and-future) from the [DataFramed podcast](https://soundcloud.com/dataframed)
 
 This week we will also be discussing a few topics related to best practices in contemporary data science. A few additional resources below.
 
