@@ -7,7 +7,7 @@ For this week please read:
 
 # Additional resources
 
-A lot of knowledge has been accumulated over the last years and codified in coding style rules by the RStudio folks:
+A lot of knowledge has been accumulated over the last years and systematized in coding style rules by the RStudio folks:
 
 * for a book-version, you may want to read [Hadley Wickham](http://hadley.nz/)'s book chapters on [R coding](http://r-pkgs.had.co.nz/r.html) and [style](http://r-pkgs.had.co.nz/style.html), from his [R Packages book](http://r-pkgs.had.co.nz)
 
@@ -15,6 +15,7 @@ A lot of knowledge has been accumulated over the last years and codified in codi
 
 * if you haven't already, check out the [`lintr`](https://github.com/jimhester/lintr) package for code analysis in R.
 
+You may also want to read this nice [post](https://chris.beams.io/posts/git-commit/) summarizing a lot of relevant information on the appropriate way to write `commit` messages 
 
 # Complementary readings
 
