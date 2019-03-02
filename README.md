@@ -11,7 +11,7 @@ program over the Spring of 2019.
 
 It contains references, slides, code, and starter files for
 data science challenges. You can find the most updated version of the course
-syllabus [here](/syllabus/GR5069_Spring2019.pdf), and some useful resources on the [wiki](/wiki/Resources). Make sure to check them regularly.
+syllabus [here](/syllabus/GR5069_Spring2019.pdf), and some useful resources on the [wiki](/wiki/). Make sure to check them regularly.
 
 
 ## Overview
@@ -35,14 +35,16 @@ value to their teams. To do that, this course aims to:
   particularly in **building knowledge and generating insights** from the
   data. While this may seem obvious for a Data Scientist, it is not
   always the focus of training,
+
 * train in **working effectively in teams** to build projects and
   products. Data Science is collaborative in nature and constantly
   evolving in **best practices** that enhance efficient
-  collaboration. Collaboration for school projects/assignments is vastly different from the **highly-structured collaboration** that happens in DS teams,
-  but is not always the focus of training,,
+  collaboration. Collaboration for school projects/assignments is vastly different from the **highly-structured collaboration** that happens in DS teams, but is not always the focus of training,
+
 * learn processes and practices at the **intersection of Data
   Science and Data Engineering** that are central to the **data product
   cycle**. Data Scientists typically start being exposed to Data Engineering on the job. There's much to be gained from early exposure to concepts and practices in this field; and
+
 * sharpen and enhance **soft skills** that are key to a
   successful interaction with business stakeholders. The most
   important - and often neglected - activity
@@ -86,20 +88,24 @@ for a [__GitHub__](https://github.com) account. [__Atom__](https://atom.io/) is 
 
 ### Accessing course materials
 
-You have two options to access the materials on this repository:
+1. install [**git**](https://git-scm.com/downloads) in your local machine  
 
-1. **Dynamic:** Clone the repository by clicking on the on the  "Open
-    in Desktop" button. If you do not have a git
-    client installed on your system, you will need to
-    [get one here](https://git-scm.com/download/gui) and also to make
-    sure that [git is installed](https://git-scm.com/downloads).  This
-    is perhaps best, since you can refresh your clone as new content gets
-    pushed.
+2. from the command line, got to the directory where you want to clone this repo
 
-3. **Static:** download the entire repository as a zip file  by
-    clicking on the on the  "Download ZIP" button. Note that
-    you will have to download it again every time it is updated (and
-    it will be updated at least weekly during the semester).
+	```
+	$ cd <dir>
+	```
 
-You can also subscribe to the repository. This will send you updates
-each time new changes are pushed to the repository.
+3. `clone` this repository to get a local copy in your machine
+
+	```
+	$ git clone https://github.com/marco-morales/QMSS-GR5069_Spring2019.git
+	```
+
+4. `pull` every week to sync your local copy with the changes pushed to the remote repo
+
+	```
+	$ git pull origin master
+	```
+
+5. subscribe to the repository to get notifications each time new changes are pushed to the repository
