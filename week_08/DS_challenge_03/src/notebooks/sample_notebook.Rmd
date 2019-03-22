@@ -1,0 +1,41 @@
+---
+title: "this is a sample notebook"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is a sample `Rmd` document, that will generate a `md` document to be pushed to GitHub to document the work that you've done. These notebooks should contain both your code and its outputs, as well as additional comments you'd want to add.   
+
+You can start by loading all necessary packages
+
+```{r message = FALSE}
+library(tidyverse)
+library(ggplot2)
+library(dotwhisker)
+library(here)
+```
+
+
+## Data Exploration
+
+Show both your code and its outputs.  
+
+```{r cars}
+summary(
+  model_fit <- lm(
+    Sepal.Length ~.,
+    data = iris)
+)
+```
+
+## Data Plotting 
+
+You can also embed plots, for example:
+
+```{r coefficient_plot, fig.align = 'center'}
+dwplot(list(model_fit))
+```
+
