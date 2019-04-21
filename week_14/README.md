@@ -12,6 +12,6 @@ Other approaches have been suggested to assess the effects of deep interactions 
 
 
 There is a number of resources that delve deep into interactions and interactive effects:
-* a site created by Matt Golder, for all things [Interactions](http://mattgolder.com/interactions)
-* Kam and Franzese's [book](https://www.press.umich.edu/206871/modeling_and_interpreting_interactive_hypotheses_in_regression_analysis)
-* Bill Greene's [book](https://www.amazon.com/Econometric-Analysis-7th-William-Greene/dp/0131395386)
+* a site created by Matt Golder, for all things [Interactions](http://mattgolder.com/interactions) which is a great reference
+* a book-length treatment of interactions by [Kam and Franzese](https://www.press.umich.edu/206871/modeling_and_interpreting_interactive_hypotheses_in_regression_analysis) if you needed a deeper understanding of interactions as means to quantify conditional effects
+* Bill Greene's [book](https://www.amazon.com/Econometric-Analysis-7th-William-Greene/dp/0131395386) is always a good reference to the mechanics or linear regression and interactions
